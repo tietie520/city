@@ -114,8 +114,8 @@ body{
 	height: 16px;
 	background: url(../images/head-sprite.png) no-repeat 0px -35px;
 	position: absolute;
-	top: 6px;
-	left: 172px;
+	top: 8px;
+	left: 193px;
 }
 .top .search1 .search:hover{
 	background: url(../images/head-sprite.png) no-repeat 0px -55px;
