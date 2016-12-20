@@ -215,16 +215,47 @@ body{
 	text-align: center;
     line-height: 1.1;
     font-size: 13px;
-    color: #4f4f4f;	
-   
+    color: #4f4f4f;	   
 }
-
-
-
-
-
-
-
+.city{
+	width:1180px;
+	height: 50px;
+	margin: 0 auto;
+	line-height: 25px;
+    margin-bottom: 30px;
+}
+.city>span{
+	color: #717171;
+}
+.city>a{
+	margin-left: 10px;
+    color: #717171;
+}
+.city>a:hover{
+	color:#ff571a;
+	text-decoration: underline;
+}
+.cityNav{
+	width: 1180px;
+	height: 34px;
+	padding: 10px 0;
+	border-bottom: 1px solid #363636;
+    border-top: 1px solid #363636;
+}
+.cityNav>a{
+	color: #717171;
+    margin-right: 25px;
+    display: block;
+    float: left;
+}
+.cityNav>a:hover{
+	text-decoration: underline;
+}
+.bottom .bottom1>p{
+	color: #717171;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
 
 
 
